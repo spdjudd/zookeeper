@@ -22,7 +22,7 @@ using NUnit.Framework;
 using ZooKeeperNet;
 using ZooKeeperNet.Recipes;
 using ZooKeeperNet.Tests;
-using log4net;
+using Common.Logging;
 
 namespace ZooKeeperNetRecipes.Tests {
 	[TestFixture]

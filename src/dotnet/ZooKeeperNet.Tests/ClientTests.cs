@@ -23,7 +23,7 @@
     using System.Linq;
     using System.Text;
     using System.Threading;
-    using log4net;
+    using Common.Logging;
     using NUnit.Framework;
     using Org.Apache.Zookeeper.Data;
 

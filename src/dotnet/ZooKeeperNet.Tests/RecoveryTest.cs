@@ -17,7 +17,7 @@
  */
 using System;
 using System.Threading;
-using log4net;
+using Common.Logging;
 using NUnit.Framework;
 using Org.Apache.Zookeeper.Data;
 

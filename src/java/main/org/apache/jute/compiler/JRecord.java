@@ -600,7 +600,7 @@ public class JRecord extends JCompType {
         cs.write("using System;\n");
         cs.write("using System.Linq;\n");
         cs.write("using Org.Apache.Jute;\n");
-        cs.write("using log4net;\n");
+        cs.write("using Common.Logging;\n");
         cs.write("\n");        
         cs.write("namespace "+getCsharpNameSpace()+"\n");
         cs.write("{\n");

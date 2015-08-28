@@ -21,7 +21,7 @@ namespace ZooKeeperNet.Tests
     using System.Net;
     using System.Threading;
     using System.Collections.Generic;
-    using log4net;
+    using Common.Logging;
     using NUnit.Framework;
     using Org.Apache.Zookeeper.Data;
 
